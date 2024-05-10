@@ -1,0 +1,7 @@
+assets folder
+components folder
+router folder
+store folder
+views folder
+App vue
+main js
